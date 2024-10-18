@@ -11,3 +11,7 @@ WhatsApp Development Code:
 5.Hiding last seen
 
 6.Profile pic for my contacts
+
+7.Adding the audio call feature
+
+8.aAdding the video call feature
